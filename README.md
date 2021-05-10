@@ -1,1 +1,1 @@
-# coding_diary
+# My first coding diary!
